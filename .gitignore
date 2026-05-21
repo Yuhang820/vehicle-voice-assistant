@@ -1,0 +1,8 @@
+models/
+bert_intent_model/
+__pycache__/
+*.pyc
+*.pt
+*.bin
+envs/
+outputs/
