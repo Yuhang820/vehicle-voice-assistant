@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+langchain
+langchain-community
+openai
+python-dotenv

@@ -1,0 +1,8 @@
+终端1：
+切换到项目环境
+cd /d "F:\pytorchlearning\pytorch code\claude项目"
+.venv\Scripts\python -m uvicorn main:app --reload
+
+终端2：
+cd /d "F:\pytorchlearning\pytorch code\claude项目"
+.venv\Scripts\python  app.py
